@@ -1,0 +1,56 @@
+body{
+    background-image: url(img/legno.jpg);
+}
+#centro{
+  width: 34%;
+  margin: auto;
+}
+#header{
+  font-size: 30px;
+  border-bottom: 3px solid black;
+  height: 170px;
+}
+.inline{
+  display: inline;
+  vertical-align: middle;
+}
+#ricerca{
+ padding-top: 15px;
+ height: auto;
+}
+#avvisomail{
+  font-size: 40px;
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+  height: auto;
+}
+ #bordicerchio{
+  border-radius: 30px;
+  background-color: orange;
+}
+main{
+  border-bottom: 3px solid black;
+  padding-bottom: 15px;
+}
+#altezza{
+  height: 160px;
+}
+.mail{
+  font-size: 20px;
+  border-bottom: 2px solid black;
+  text-decoration: none; font-weight:bold;
+  background-color: grey;
+}
+.testochiaro{
+  color: grey;
+}
+.testoscuro{
+  color: black;
+}
+#emailetta{
+  background-color: white;
+}
+#finepagina{
+  text-align: center;
+  font-size: 20px;
+}
